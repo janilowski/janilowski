@@ -1,4 +1,4 @@
-# 👤 Jan Iłowski
+# 🌕 Jan Iłowski
 
 **🖥️ Software engineering** (ML, full-stack web, IoT), **🤖 machine learning, 📊 finance.**
 
