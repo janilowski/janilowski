@@ -12,7 +12,7 @@ other interests incl.: business, philosophy, public speaking, design, abuse of e
 
 ---
 
-More + writing: 🌐 [janilowski.pl](https://janilowski.pl/)
+More + writing + **public email address & Signal**: 🌐 [janilowski.pl](https://janilowski.pl/)
 
 Speeches, conference appearances: 📺 [Jan Iłowski @ YouTube](https://www.youtube.com/@janekilowski)
 
