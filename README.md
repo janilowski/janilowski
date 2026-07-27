@@ -23,13 +23,12 @@ Main `git` account: ⚪ [Jan Iłowski @ SourceHut](https://sr.ht/~janilowski/)
 Inexhaustive, unordered list of software I use (and like to use) on a professional level:
 
 - GNU+Linux (Debian, Fedora)
-- nginx
+- git
 - TypeScript
-- Svelte & SvelteKit
 - Vite
 - Bun
+- Svelte & SvelteKit
 - better-auth
-- git
 - Zed
 - vim
 - ghostty
