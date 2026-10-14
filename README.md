@@ -2,13 +2,13 @@
 
 **🖥️ Software engineering** (ML, full-stack web, IoT), **🤖 machine learning, 📊 finance.**
 
-other interests incl.: business, philosophy, public speaking, design, abuse of emoji.
+other interests incl.: business, philosophy, public speaking, design;
 
 ---
 
-🖥️ 2025-now: Computer Science, Machine Learning @ AGH University of Science and Technology, Kraków
+🖥️ 2025-now: {Teaching Web Apps + Studying MsC in Computer Science, Machine Learning} @ AGH University of Science and Technology, Kraków
 
-🏦 2022-2025: Finance & Accounting @ Kozminski University, Warsaw
+🏦 2022-2025: BSc Finance & Accounting @ Kozminski University, Warsaw
 
 ---
 
@@ -16,13 +16,12 @@ More + writing: 🌐 [janilowski.pl](https://janilowski.pl/)
 
 Speeches, conference appearances: 📺 [Jan Iłowski @ YouTube](https://www.youtube.com/@janekilowski)
 
-Main `git` account: ⚪ [Jan Iłowski @ SourceHut](https://sr.ht/~janilowski/)
-
 ---
 
 Inexhaustive, unordered list of software I use (and like to use) on a professional level:
 
 - GNU+Linux (Debian, Fedora)
+- Bash
 - git
 - TypeScript
 - Vite
@@ -31,9 +30,10 @@ Inexhaustive, unordered list of software I use (and like to use) on a profession
 - better-auth
 - Zed
 - vim
-- ghostty
-- numpy
 - uv
+- Google App Script
+- PostgreSQL
+- CloudFlare (Workers, Pages, D1, R2)
 
 ---
 
